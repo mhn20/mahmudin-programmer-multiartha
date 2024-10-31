@@ -66,8 +66,8 @@ http://localhost:8000/admin-dashboard/users/
 ### Tugas 5
 ```
 # Open File tugas5.py
-$ input your email akun chatgpt
-$ input your password akun chatgpt
+$ input your email account chatgpt
+$ input your password account chatgpt
 ```
 ```bash
 python tugas5.py
