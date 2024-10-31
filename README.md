@@ -55,5 +55,10 @@ python manage.py runserver
 ```bash
 http://localhost:8000/admin-dashboard/users/
 ```
-
+### Tugas 5
+```
+# Open File tugas5.py
+$ input your email akun chatgpt
+$ input your password akun chatgpt
+```
 
