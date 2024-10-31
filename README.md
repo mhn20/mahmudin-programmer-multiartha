@@ -50,6 +50,9 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 ```bash
+python manage.py runserver
+```
+```bash
 http://localhost:8000/admin-dashboard/users/
 ```
 
