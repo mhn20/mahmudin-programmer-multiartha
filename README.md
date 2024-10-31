@@ -26,10 +26,18 @@ pip3 install -r requirements.txt
 $ input your_username
 $ input your_password
 ```
+```bash
+python tugas1.py
+```
 ### Tugas 2
 ```
 # Open File tugas2.py
 $ insert your api_key
+```
+```bash
+python tugas2.py
+```
+```
 # open postman 
 $ url : http://127.0.0.1:5000/ask
 $ method : POST
@@ -60,5 +68,8 @@ http://localhost:8000/admin-dashboard/users/
 # Open File tugas5.py
 $ input your email akun chatgpt
 $ input your password akun chatgpt
+```
+```bash
+python tugas5.py
 ```
 
