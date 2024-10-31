@@ -34,5 +34,6 @@ $ sisipkan api_key
 $ url : http://127.0.0.1:5000/ask
 $ method : POST
 $ headers : Accept application/json
+$ body : raw json {"question" : "Apa itu facebook ?" }
 ```
 
