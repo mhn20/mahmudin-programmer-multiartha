@@ -29,7 +29,7 @@ $ input your_password
 ### Tugas 2
 ```
 # Open File tugas2.py
-$ sisipkan api_key
+$ insert your api_key
 # open postman 
 $ url : http://127.0.0.1:5000/ask
 $ method : POST
